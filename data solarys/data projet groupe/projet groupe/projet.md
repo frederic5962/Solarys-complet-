@@ -1,0 +1,13 @@
+utilisateur    (id)
+administrateur (id)
+nom            (chaine 25)
+prenom         (chaine 25) 
+e_mail         (chaine 25)
+pseudo         (chaine 25)
+photo          (libre format jpg,png etc) 
+document       (chaine 255) 
+video          (libre format a definir)
+favoris        (booléens)
+multilingue    (chaine 150)
+page           (entier)
+
